@@ -1,0 +1,6 @@
+django-cors-headers para comunicar los servidores locales
+para documentar, crea una doc de mi api de como utilizarla practicamente: coreapi
+https://www.django-rest-framework.org/coreapi/ si sale el error de autoSchema
+
+frontend
+utilizar vite para crear el frontend basic
