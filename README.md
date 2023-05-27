@@ -1,0 +1,1 @@
+# fazt-drf-react-crud
